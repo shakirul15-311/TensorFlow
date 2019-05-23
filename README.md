@@ -5,3 +5,10 @@ TensorFlow is a powerful open source software library. It was developed by the G
 
 
 TensorFlow is a symbolic math library, and is also used for machine learning applications such as neural networks. Its basic principle is simple: you first define in Python a graph of computations to perform (for example, the one in Fig 2.1), and then TensorFlow takes that graph and runs it efficiently using optimized C++ code.
+
+## This repository is powered by 
+#### Nerd Castle
+
+
+## Supportive content of this repo is from:
+#### Hands-on Machine Learning with Scikit-Learn and TensorFlow By Aurélien Géron
